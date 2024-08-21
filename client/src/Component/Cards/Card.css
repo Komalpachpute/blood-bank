@@ -1,0 +1,39 @@
+.main{
+   min-height: 200px; 
+    width: 200px;
+    border:  1PX solid black;
+    /* margin-top: 10px; */
+    margin-left: 50px;
+    display: inline-block;
+    box-shadow: 1px 1px 1px 1px gray;
+    border-radius: 30px;
+    transition: 1s;
+    background-color: rgb(244, 234, 234);
+    backdrop-filter: blur(20px);
+}
+
+
+.head{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.para{
+    margin-left: 10px;
+}
+.name{
+    display: inline-block;
+    /* background-color: brown; */
+
+}
+
+.main:hover{
+transform: scale(0.9);
+background-color:rgb(236, 38, 38) ;
+}
+.img{
+    height: 50px;
+    width: 50px;
+    margin-left: 50px;
+    text-align: center;
+    margin-top: 20px;
+}

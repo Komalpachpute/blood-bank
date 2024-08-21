@@ -1,0 +1,81 @@
+.contact{
+    height: 720px;
+    width: 650px;
+    /* border: 1px solid black; */
+    margin-left:880px;
+margin-top: 40px;
+}
+.heeead{
+    text-align: center;
+    font-size: x-large;
+}
+.contactitem{
+    height: auto;
+}
+span{
+   font-family: monospace;
+} 
+h3{
+   font-family: arial black;
+   color:rgb(11, 11, 11);
+} 
+
+.head5{
+    font-size: large;
+    color: black;
+} 
+.row{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStLGve7juDm5pyp9AyFBY5ZqfHFvZeBZm1aA&s');
+  background-size: cover;
+  overflow: hidden;
+    color:rgb(14, 13, 13);
+    /* font-family:tahoma; */
+    box-shadow: 1px 1px 12px 1px grey ;
+    padding: 15px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 590px;
+    margin: 10px;
+    height: 720px;
+}
+.label{
+    height: 40px;
+    width: 450px;
+    margin: 10px;
+    background-color: rgb(237, 239, 241);
+   border: 1px solid grey; 
+}
+
+
+.label:hover{
+    border: 2px solid  ;
+    box-shadow: 0px 0px 1px 0px skyblue;
+    /* transform: scale(1.1); */
+}
+.int{
+    height: 100px;
+    width: 450px;
+    margin: 10px;
+    background-color: rgb(237, 239, 241);
+    border: 1px solid grey;
+}
+.btnss{
+    font-size: larger;
+   padding: 10px 30px;
+   margin: 10px;
+    background-color:rgb(227, 21, 38);
+    border-radius: 30px;
+    border: 1px solid whitesmoke;
+    color: rgb(11, 11, 11);
+}
+
+.btnss:hover{
+    background-color: transparent; 
+    /* color: rgb(255, 0, 43); */
+    /* border: 1px solid orangered; */
+}
+
+.frist{
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/back_our/20190619/ourmid/pngtree-geometric-gradient-creative-blood-donation-poster-background-material-image_134137.jpg');
+   background-size: cover;
+}

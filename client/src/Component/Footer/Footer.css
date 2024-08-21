@@ -1,0 +1,33 @@
+.foot {
+    margin-top: 50px;
+    margin-left: 130px;
+    
+}
+
+.footer-head {
+    font-size: 30px;
+    font-weight: 500;
+}
+.ecohead {
+   
+  height: 300px;
+}
+.ter{
+    display: flex;
+    background-color: brown;
+    color: white;
+    height: 300px;
+
+}
+.footer{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.fot{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.food{
+    margin-left: 100px;
+    margin-top: 50px;
+}

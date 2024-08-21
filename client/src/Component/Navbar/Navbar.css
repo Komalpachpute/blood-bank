@@ -1,0 +1,41 @@
+.simple{
+    background-color: rgb(148, 148, 222);
+    color: white;
+
+}
+
+.nav-link active{
+
+    margin-left: 100px;
+    margin-top: -100px;
+    color: white;
+
+
+}
+.container-fluid{
+    background-color: rgb(214, 43, 43);
+    margin-top: 30px;
+    height: 50px;
+    margin-left: 100px;
+    position: fixed ;
+    z-index: 10;
+
+
+
+    
+}
+.navbar navbar-expand-lg navbar-light bg-light{
+    margin-top: -100px;
+    margin-left: 30px;
+
+
+}
+.logo{
+    margin-top: 10px;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.nav-link{
+    color: white;
+}

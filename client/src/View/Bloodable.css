@@ -1,0 +1,111 @@
+
+
+.able{
+    height: 200px;
+    width: 200px;
+    /* border:  1px solid black ; */
+    margin-left: 120px;
+    margin-top: 50px;
+    box-shadow:  1px 1px 1px 1px grey;
+    /* border-radius: 30px 30px; */
+    justify-content: space-evenly;
+    transition: 1s;
+} 
+.able:hover{
+    transform: scale(0.9);
+    background-color: rgb(191, 49, 49);
+}
+
+.camp{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 10px;
+}
+
+.pa{
+    text-align: center;
+}
+
+.sa{
+    /* display: inline-block; */
+display: flex;
+}
+
+.not{
+    text-align: center;
+    margin-top: 40px;
+    color: brown;
+}
+.but{
+    text-align: center;
+    margin-top: 30px;
+    color: green;
+}
+.immm{
+    height: 100px;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: -20px;
+}
+
+.class{
+    background-color: brown;
+    color: beige;
+    font-size: larger;
+}
+.serach{
+    height: 50px;
+    margin-left: 500px;
+    width: 150px;
+    background-color: brown;
+    color: white;
+
+}
+.set{
+    width:290px;
+    height: 30px;
+    margin-left: 8px;
+}
+.stock{
+    /* margin-left: 10px;
+    text-align: center;
+    height: 70px;
+    font-size: xx-large;
+    width: 100%px;
+    border-radius: 30px 30px;
+    background-color:rgb(218, 210, 210) */
+
+    display: flex;
+}
+
+.var{
+    margin-left: 90px;
+    margin-top: -200px;
+}
+.other{
+    margin-left: 30px;
+}
+
+.sr{
+    width: 200px;
+    height: 40px;
+    margin-left: 20px;
+    background-color: brown;
+    color: azure;
+}
+.use{
+    text-align: center;
+    color: brown;
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-bottom:-30px;
+}
+/* .tock{
+    display: flex;
+} */
+
+.ham{
+    margin-left: 1px;
+    margin-right: 90px;
+    display: flex;
+}

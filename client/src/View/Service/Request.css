@@ -1,0 +1,51 @@
+.request{
+    height: 200px;
+    width: 1000px;
+    border: 1px solid black;
+    margin-left:200px;
+    margin-top: 40px;
+    background-color: rgb(198, 69, 69);
+    margin-bottom: 50px;
+
+}
+.type{
+    margin-left: 10px;
+    margin-top: 20px;
+    width: 300px;
+    
+}
+.ty{
+    margin-top: 30px;
+}
+.sapn{
+    margin-top: -100px;
+    margin-left: 10px;
+    
+}
+.select{
+    width: 300px;
+    margin-left: 10px;
+}
+.sel{
+    margin-left: 700px;
+    margin-top: -100;
+    width: 300px;
+}
+.hii{
+    text-align: center;
+    margin-top: 60px;
+}
+.color{
+ background-size: cover;
+ width: 100%;
+
+}
+
+.submit{
+    height: 50px;
+    width: 120px;
+    margin-left: 600px;
+    margin-top: -100px;
+    background-color: brown;
+    color: white;
+}

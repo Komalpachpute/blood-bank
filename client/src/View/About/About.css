@@ -1,0 +1,104 @@
+.about{
+    /* background-image: url('https://static.vecteezy.com/system/resources/previews/027/626/538/non_2x/blood-donation-concept-world-blood-donor-day-awareness-doctor-holding-in-hand-drop-of-blood-with-medical-cross-icon-and-medicine-icons-network-connection-on-virtual-screen-illustration-vector.jpg'); */
+    background-size: cover;
+    height: 1000px;
+    width: 100%;
+    margin-top: -100px;
+    overflow-x: hidden;
+    z-index: auto;
+    background-image: url('https://content.jdmagicbox.com/comp/def_content/blood_banks/default-blood-banks-9.jpg');
+    /* background-image: url('https://as1.ftcdn.net/v2/jpg/02/99/31/42/1000_F_299314252_O7qdI2hF5MzAZ7tiqs5b6lpxDj9PFxmU.jpg'); */
+
+
+}
+
+.ab{
+    height: 300px;
+    width: 1000px;
+    border:  1px solid black;
+    margin-left: 250px;
+    margin-top: 60px;
+    border-radius: 30px;
+    box-shadow: 1px 1px 1px 1px gray;
+        transition: 1s;
+        
+
+}
+.ab:hover{
+    transform: scale(0.9);
+}
+.paro{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size:x-large;
+    color: rgb(20, 20, 20);
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ho{
+    text-align: center;
+    margin-top: 180px;
+    /* margin-left: 30px; */
+    margin-bottom: 50px;
+    color: #ee0808;
+    font-size: xx-large;
+    /* margin-top: 10px; */
+
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.bt{
+    border: 1px solid black;
+    margin-left: 350px;
+       width: 200px;
+    margin-top: 40px;
+box-shadow: 1px 1px 1px 1px gray;
+background-color: brown;
+height: 40px;
+color: white;
+
+}
+.bn{
+    margin-left: 100px;
+    background-color: brown;
+    height: 40px;
+    width: 200px;
+    box-shadow: 1px 1px 1px 1px gray;
+    border: 1px solid black;
+    color: white;
+}
+.hed{
+    text-align: center;
+    color: rgb(254, 11, 11);
+    font-size: xx-large;
+    margin-top: 40px;
+                                                                                                                                                                                                                    
+
+}
+.la{
+    margin-left: 100px;
+    background-color: brown;
+    height: 40px;
+    width: 200px;
+    box-shadow: 1px 1px 1px 1px gray;
+    border: 1px solid black;
+    color: white;
+
+}
+.ma{
+    margin-left: 100px;
+    background-color: brown;
+    height: 40px;
+    width: 200px;
+    box-shadow: 1px 1px 1px 1px gray;
+    border: 1px solid black;
+    color: white;
+
+}
+
+.now{
+    margin-top: 20px;
+    margin-left: 200px;
+}

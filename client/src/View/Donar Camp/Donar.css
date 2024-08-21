@@ -1,0 +1,76 @@
+/* .divvv{
+    background-image: url('https://vimjes.edu.in/wp-content/uploads/2020/09/Blood_3_7900.jpg');
+ 
+} */
+
+.immp{
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.pot{
+    height: 200px;
+    width: 300px;
+    /* border: 1px solid black; */
+    margin-left: 60px;
+    margin-top: 30px;
+    justify-content: space-evenly;
+    box-shadow: 1px 1px 1px 1px gray;
+    border-radius: 20px;
+    background-color: #f14343;
+    color: rgb(23, 22, 22);
+    transition: 1s;
+} 
+.pot:hover{
+    transform: scale(0.9);
+}
+
+.got{
+    /* display: inline-block; */
+    display: flex;
+}
+.CAMP{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(15, 14, 14);
+
+}
+.city{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    margin-top: 30px;
+}
+.Add{
+    text-align: center;
+    margin-top: 30px;
+
+}
+.date{
+    text-align: center;
+}
+
+.savee{
+    height: 100%px;
+    width: 1500px; 
+    margin-left: 10px;
+}
+
+.sav{
+    height: 500px;
+    width: 1200px;
+    margin-left: 120px;
+
+}
+.may{
+    text-align: center;
+}
+.bar{
+    text-align: center;
+    margin: 20px;
+}
+
+.city{
+    padding: 20px;
+}
