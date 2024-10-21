@@ -12,6 +12,7 @@ export function Getrequest(){
     const getallrequest =async()=>{
         const getissue = await axios.get("http://localhost:4000/requests")
         setAllrequest(getissue.data.data)
+      
     }
 
     const deletedata=async(data)=>{
